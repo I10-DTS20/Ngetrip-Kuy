@@ -82,11 +82,10 @@ img:hover {
 }
 .top-wrapper {
 	background-image: url(frank-vessia-EoThx95bYPg-unsplash.jpg);
-	background-size: cover;
+	background-size: 100%;
 	padding-top: 30px;
 	color: white;
 	text-align: right;
-	width: 100%;
 }
 .container {
 	max-width: 1170px;
@@ -115,16 +114,11 @@ img:hover {
 }
 .btn-wrapper {
 	margin: 20px 0;
-	width: 30%;
+	width: 100px;
 }
 .btn-wrapper p {
 	margin: 10px 0;
 }
-
-.btn-wrapper a{
-	width:500px;	
-}
-
 .signup {
 	background-color: #00b894;
 }
@@ -144,7 +138,6 @@ img:hover {
 	margin-right: 40px;
 	margin-left: 835px;
 	margin-bottom: 10px;
-	width: 25%;
 }
 .btn:hover {
 	opacity: 1;
