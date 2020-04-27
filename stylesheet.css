@@ -244,21 +244,6 @@ img:hover {
 
 /*css extra1 */
 
-
-/*responsive */
-
-@media all and (max-width: 1000px){
-	.content{
-		width: 50%;
-
-	}
-
-
-@media all and (max-width: 670px){
-	.content{
-		width: 100%;
-	}
-}
 /* CSS BAGIAN FOOTER	 */
 	*{
     margin: 0;
