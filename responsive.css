@@ -1,5 +1,5 @@
 /* responsive header */
-@media (max-width: 1000px)
+@media all and (max-width: 1000px)
 {
 	header{
 		padding: 0 20px;
@@ -25,6 +25,10 @@
 	}
 	header nav ul li a {
 		border-bottom: 1px solid rgba(0,0,0,.2);
+	}
+	
+	.content{
+		width:50%;
 	}
 	
 	.footer-item{
