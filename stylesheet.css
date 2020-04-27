@@ -108,7 +108,7 @@ img:hover {
 }
 .top-wrapper {
 	background-image: url(frank-vessia-EoThx95bYPg-unsplash.jpg);
-	background-size: 100%;
+	background-size: cover;
 	padding-top: 30px;
 	color: white;
 	text-align: right;
@@ -121,7 +121,7 @@ img:hover {
 	margin: 0 auto;
 }
 .top-wrapper h1 {
-	margin-top: 20px;
+	margin-top: 40px;
 	font-size: 120px;
 	font-style: bold;
 }
@@ -132,7 +132,7 @@ img:hover {
 }
 .container p {
 	font-size: 30px;
-	margin-left: 700px;
+	margin-left: 600px;
 	text-align: right;
 }
 .top-wrapper span {
@@ -140,7 +140,7 @@ img:hover {
 }
 .btn-wrapper {
 	margin: 20px 0;
-	width: 25%;
+	width: 100%;
 }
 .btn-wrapper p {
 	margin: 10px 0;
@@ -171,11 +171,7 @@ img:hover {
 .btn span {
 	color: white;
 }
-.fab {
-	margin-right: 10px;
-	text-align: left;
-}
-.fas {
+.fa {
 	margin-right: 10px;
 	text-align: left;
 }
@@ -185,6 +181,7 @@ img:hover {
 	text-align: center;
 	padding-top: 30px;
 	color: #5f5d60;
+	height: 500px;
 	margin: 0 auto;
 }
 .travel-style h3 {
@@ -221,7 +218,7 @@ img:hover {
 
 /* css extra1*/
 .extra1{
-	padding: 100px 0 100px 0;
+	padding: 100px 100px;
 }
 
 .content-wrapper{
