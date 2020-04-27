@@ -52,33 +52,4 @@
 	text-align: left;
 }
 
-.fasilitas-wrapper{
-	height: 300px;
-	margin-top: 100px;
-	text-align: center;
-}
-
-.fasilitas-wrapper h2, h3{
-	font-weight: normal;
-}
-
-.fasilitas{
-	float: left;
-	width: 25%;
-}
-
-.fasilitas p{
-	text-align: center;
-	margin-top: 50px;
-}
-
-.fasilitas img{
-	width: 30%;
-	height: 30%;
-}
-
-.txt{
-	color: grey;
-}
-
 /*css extra1 */
