@@ -228,7 +228,7 @@ img:hover {
 .detail{
 	position: relative;
 	margin: auto;
-	padding: 0 5px;
+	padding-left : 5px;
 }
 
 .content img{
@@ -239,7 +239,7 @@ img:hover {
 .text-contents{
 	position: absolute;
 	top: 0;
-	left: 10;
+	left: 0;
 	color: #fff;
 	padding: 8px 10px;
 	background-color:#000;
