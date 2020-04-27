@@ -119,6 +119,11 @@ img:hover {
 .btn-wrapper p {
 	margin: 10px 0;
 }
+
+.btn-wrapper a{
+	width:200px;	
+}
+
 .signup {
 	background-color: #00b894;
 }
@@ -193,7 +198,6 @@ img:hover {
 /* css extra1*/
 .extra1{
 	padding: 100px 100px;
-	margin : auto;
 }
 
 .content-wrapper{
