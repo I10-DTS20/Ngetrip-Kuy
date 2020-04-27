@@ -142,11 +142,16 @@ img:hover {
 }
 .btn-wrapper {
 	margin: 20px 0;
-	width: 100%;
+	width: 30%;
 }
 .btn-wrapper p {
 	margin: 10px 0;
 }
+
+.btn-wrapper a{
+	width:500px;	
+}
+
 .signup {
 	background-color: #00b894;
 }
