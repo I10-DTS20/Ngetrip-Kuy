@@ -101,7 +101,7 @@ img:hover {
 .top-wrapper h2 {
 	font-style: italic;
 	font-size: 60px;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 .container p {
 	font-size: 30px;
@@ -152,7 +152,7 @@ img:hover {
 	text-align: center;
 	padding-top: 30px;
 	color: #5f5d60;
-	height: 500px;
+	height: 300px;
 }
 .style h3 {
 	font-weight: normal;
