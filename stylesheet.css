@@ -221,7 +221,7 @@ img:hover {
 
 /* css extra1*/
 .extra1{
-	padding: 100px 100px;
+	padding: 100px 0 100px 0;
 }
 
 .content-wrapper{
