@@ -267,7 +267,7 @@ img:hover {
     padding: 10px 20px;
     box-sizing: border-box;
 }
-h1{
+.footer-item h1{
     padding: 10px 0;
     font-size: 25px;
     color: #fff;
