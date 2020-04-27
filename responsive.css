@@ -32,3 +32,12 @@
     }
 }
 
+@media all and (max-width: 670px){
+	.content{
+		width: 100%;
+	}
+
+	.footer-item{
+        width: 100%;
+    }
+}
