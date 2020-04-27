@@ -183,7 +183,6 @@ img:hover {
 	padding-top: 30px;
 	color: #5f5d60;
 	height: 500px;
-	margin: 0 auto;
 }
 .heading-style h3 {
 	font-weight: normal;
@@ -199,6 +198,7 @@ img:hover {
 }
 .style img {
 	width: 50%;
+	height: 50%;
 	text-align: center;
 	padding-top: 30px;
 }
