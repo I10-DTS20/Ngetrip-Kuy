@@ -114,6 +114,7 @@ img:hover {
 }
 .btn-wrapper {
 	margin: 20px 0;
+	width: 25%;
 }
 .btn-wrapper p {
 	margin: 10px 0;
@@ -137,7 +138,6 @@ img:hover {
 	margin-right: 40px;
 	margin-left: 835px;
 	margin-bottom: 10px;
-	width: 70px;
 }
 .btn:hover {
 	opacity: 1;
