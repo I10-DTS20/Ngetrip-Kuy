@@ -138,6 +138,7 @@ img:hover {
 	margin-right: 40px;
 	margin-left: 835px;
 	margin-bottom: 10px;
+	display: inline-block;
 }
 .btn:hover {
 	opacity: 1;
