@@ -121,7 +121,7 @@ img:hover {
 	margin: 0 auto;
 }
 .top-wrapper h1 {
-	margin-top: 40px;
+	margin-top: 80px;
 	font-size: 120px;
 	font-style: bold;
 }
@@ -164,6 +164,7 @@ img:hover {
 	margin-right: 40px;
 	margin-left: 835px;
 	margin-bottom: 10px;
+	width: 100%;
 }
 .btn:hover {
 	opacity: 1;
@@ -184,7 +185,7 @@ img:hover {
 	height: 500px;
 	margin: 0 auto;
 }
-.travel-style h3 {
+.heading-style h3 {
 	font-weight: normal;
 	text-align: center;
 	font-size: 25px;
